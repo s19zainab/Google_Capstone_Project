@@ -1,4 +1,4 @@
-Google Capstone Project
+# Google Capstone Project
 
 I analyzed a dataset for Bellabeat, a company that creates high tech products for womens health. The data from this dataset is fitness and health data from smart devices, specifically their Bellabeat app. I analyzed daily movement and sleep data because:
 - Daily movement data gives insights on user enagement
